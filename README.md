@@ -61,7 +61,7 @@ Há a estrada sem curva nenhuma.
 Você pode encontrar meu trabalho e projetos relacionados a essas paixões neste perfil.
 
 <div display = flex>
-  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=AglailsonCleber&show_icons=true&theme=gruvbox" />
+  <img height=220 width=370 align="center" src="https://github-readme-stats.vercel.app/api?username=AglailsonCleber&show_icons=true&theme=gruvbox" />
   <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AglailsonCleber&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
 </div>
 
