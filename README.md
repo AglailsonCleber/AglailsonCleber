@@ -59,21 +59,10 @@ Há a estrada sem curva nenhuma.
 
 Você pode encontrar meu trabalho e projetos relacionados a essas paixões neste perfil.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AglailsonCleber" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AglailsonCleber&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-##
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AglailsonCleber&repo=memorabilia" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AglailsonCleber&repo=GeoQuest" />
-</a>
+<div display = flex>
+  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=AglailsonCleber&show_icons=true&theme=gruvbox" />
+  <img height=200 width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AglailsonCleber&layout=compact&langs_count=8&card_width=320&theme=gruvbox" />
+</div>
 
 ##
 
