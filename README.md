@@ -2,9 +2,10 @@
 
 Em meu dia a dia, encontro um profundo encanto nas maravilhas da tecnologia, onde a sinergia entre ciências, programação, lógica e um vasto mundo a ser desbravado me cativa. Minha curiosidade insaciável me conduz a desafios contínuos, buscando compreender o intrincado tecido da existência. Não busco provar nada, mas sim a satisfação de desvendar os enigmas que o mundo oferece, onde a maravilha da descoberta é o verdadeiro prêmio.
 
+##### Citações:
+
 <details>
 <summary>XXIX</summary>
-
 
 Nem sempre sou igual no que digo e escrevo.  
 Mudo, mas não mudo muito.  
